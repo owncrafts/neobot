@@ -5,7 +5,7 @@
 	"env": {
 		"TOKEN": {
 			"description": "Your Discord Token Key.",
-			"value": ""
+			"value": "6acda69b62e6f55d341ed0bedbb73850fc3c0fcd03fc5e87daea3d8695780d67"
 		}
 	},
 	"buildpacks": [
